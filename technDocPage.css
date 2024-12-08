@@ -43,7 +43,7 @@ html {
   }
 }
 
-#main-doc header {
+.main-doc-header {
   text-align: left;
   margin: 0px;
 }
